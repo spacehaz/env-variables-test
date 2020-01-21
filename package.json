@@ -1,0 +1,13 @@
+{
+  "name": "env-variables-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spacehaz/env-variables-test.git",
+  "author": "spacehaz <spacehaz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
